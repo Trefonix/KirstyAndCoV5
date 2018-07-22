@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 65923f7b822934445915e5b210ce7e74
+timeCreated: 1532125931
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kirsty Right Top Leg
+    21300002: Kirsty Left Top Leg
+    21300004: Kirsty Right Bottom Arm
+    21300006: Kirsty Right Top Ear
+    21300008: Kirsty Right Main Bow
+    21300010: Kirsty Right Bottom Ear
+    21300012: Kirsty Right Bottom Leg
+    21300014: Kirsty Left Bottom Leg
+    21300016: Kirsty Right Hand Fist
+    21300018: Kirsty Right Foot
+    21300020: Kirsty Foot Left
+    21300022: Kirsty Body
+    21300024: Kirsty Pupil
+    21300026: Kirsty Right Brow
+    21300028: Kirsty Left Brow
+    21300030: Kirsty Eye
+    21300032: Kirsty Head
+    21300034: Kirsty Left Hand Fist
+    21300036: Kirsty Right Top Ear Side
+    21300038: Kirsty Right Ear Bottom Side
+    21300040: Kirsty Right Bow
+    21300042: Kirsty Left Main Bow
+    21300044: Kirsty Left Bow
+    21300046: Kirsty Mouth
+    21300048: Kirsty Left Bottom Arm
+    21300050: Kirsty nose
+    21300052: Kirsty-closed-eye
+    21300054: Kirsty-Hand-Open
+    21300056: Kirsty Hand Open Shadow
+    21300058: Kirsty-mouth-open
+    21300060: Kirsty Hand Open Front
+    21300062: Kirsty Body Front
+    21300064: Kirsty Front Foot
+    21300066: Kirsty Mouth Open 2
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirsty Right Top Leg
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.51518404, y: 0.99347955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Top Leg
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 75
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.51518404, y: 0.9858875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Bottom Arm
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 74
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.9831269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Top Ear
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.77607244, y: 0.46746227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Main Bow
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 0.8239248, y: 0.4662569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Bottom Ear
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.51687115, y: 0.9831266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Bottom Leg
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9555197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Bottom Leg
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 53
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9744992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Hand Fist
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.94539696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Foot
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 42
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.35828272, y: 0.9831266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Foot Left
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.3987732, y: 0.9831266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Body
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5084355, y: 0.9210108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Pupil
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Brow
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Brow
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 42
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Eye
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Head
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49240798, y: 0.016872926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Hand Fist
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.9976972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Top Ear Side
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 47
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.9279112, y: 0.7013522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Ear Bottom Side
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 42
+        width: 8
+        height: 13
+      alignment: 9
+      pivot: {x: 0.483128, y: 0.9555196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Right Bow
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.058604155, y: 0.4377522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Main Bow
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Bow
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 72
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.14110495, y: 0.43251547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Mouth
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Left Bottom Arm
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9762251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty nose
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty-closed-eye
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty-Hand-Open
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5569401, y: 0.044479847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Hand Open Shadow
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 72
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5569391, y: 0.05396986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty-mouth-open
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 58
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Hand Open Front
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 52
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5189791, y: 0.09472084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Body Front
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.50843513, y: 0.92791265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Front Foot
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 13
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Mouth Open 2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
