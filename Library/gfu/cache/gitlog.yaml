@@ -1,0 +1,581 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-07-20T17:25:33.671+01:00
+  initializedAtString: 2018-07-20T16:49:59.179+01:00
+  log:
+  - commitID: 23f6763ea6d0315e8d63dbc7ec4d8d43bcee7553
+    mergeA: 
+    mergeB: 
+    authorName: Alex McCoy
+    authorEmail: am.mccoy@yahoo.co.uk
+    commitEmail: am.mccoy@yahoo.co.uk
+    commitName: Alex McCoy
+    summary: Base Engine
+    description: 'Base Engine
+
+
+      Base assets + Placeholders'
+    timeString: 2018-07-20T17:25:33.000+01:00
+    commitTimeString: 2018-07-20T17:25:33.000+01:00
+    changes:
+    - path: Assets/Animations.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Animations.meta
+      projectPath: Assets/Animations.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics.meta
+      projectPath: Assets/Graphics.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Backgrounds.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Backgrounds.meta
+      projectPath: Assets/Graphics/Backgrounds.meta
+      originalPath: Assets/Backgrounds.meta
+      status: 6
+      staged: 0
+    - path: Assets/Graphics/Characters.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Characters.meta
+      projectPath: Assets/Graphics/Characters.meta
+      originalPath: Assets/Characters.meta
+      status: 6
+      staged: 0
+    - path: Assets/Graphics/Tilemap.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap.meta
+      projectPath: Assets/Graphics/Tilemap.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Cube.asset
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Cube.asset
+      projectPath: Assets/Graphics/Tilemap/Cube.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Cube.asset.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Cube.asset.meta
+      projectPath: Assets/Graphics/Tilemap/Cube.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Sloped Tile.asset
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Sloped Tile.asset
+      projectPath: Assets/Graphics/Tilemap/Sloped Tile.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Sloped Tile.asset.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Sloped Tile.asset.meta
+      projectPath: Assets/Graphics/Tilemap/Sloped Tile.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Test Level Palette.prefab
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Test Level Palette.prefab
+      projectPath: Assets/Graphics/Tilemap/Test Level Palette.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Test Level Palette.prefab.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Test Level Palette.prefab.meta
+      projectPath: Assets/Graphics/Tilemap/Test Level Palette.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Tilemap for Alex.png
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Tilemap for Alex.png
+      projectPath: Assets/Graphics/Tilemap/Tilemap for Alex.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Graphics/Tilemap/Tilemap for Alex.png.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Graphics/Tilemap/Tilemap for Alex.png.meta
+      projectPath: Assets/Graphics/Tilemap/Tilemap for Alex.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 3b83f379ebc74f639cd642bfd5d88d37829b083f
+    mergeA: 
+    mergeB: 
+    authorName: Alex McCoy
+    authorEmail: am.mccoy@yahoo.co.uk
+    commitEmail: am.mccoy@yahoo.co.uk
+    commitName: Alex McCoy
+    summary: Base files
+    description: 'Base files
+
+
+      Base files for V5'
+    timeString: 2018-07-20T16:55:54.000+01:00
+    commitTimeString: 2018-07-20T16:55:54.000+01:00
+    changes:
+    - path: Assets/Backgrounds.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Backgrounds.meta
+      projectPath: Assets/Backgrounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Characters.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Characters.meta
+      projectPath: Assets/Characters.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Scenes.meta
+      projectPath: Assets/Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts.meta
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/alex/Kirsty Engine V5/Packages/manifest.json
+      projectPath: Packages/manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/ClusterInputManager.asset
+      projectPath: ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/NetworkManager.asset
+      projectPath: ProjectSettings/NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/PresetManager.asset
+      projectPath: ProjectSettings/PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/alex/Kirsty Engine V5/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: fccd422ae2dbe2cd8182519c70a2ba484d67c3fd
+    mergeA: 
+    mergeB: 
+    authorName: Alex McCoy
+    authorEmail: am.mccoy@yahoo.co.uk
+    commitEmail: am.mccoy@yahoo.co.uk
+    commitName: Alex McCoy
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-07-20T16:49:58.000+01:00
+    commitTimeString: 2018-07-20T16:49:58.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/alex/Kirsty Engine V5/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/alex/Kirsty Engine V5/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/alex/Kirsty Engine V5/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
