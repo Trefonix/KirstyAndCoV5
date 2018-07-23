@@ -165,27 +165,27 @@ Prefab:
     - target: {fileID: 61797545829944850, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_Offset.x
-      value: 0.099999994
+      value: 0.07809709
       objectReference: {fileID: 0}
     - target: {fileID: 61797545829944850, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_Offset.y
-      value: -0.28535053
+      value: -0.11760615
       objectReference: {fileID: 0}
     - target: {fileID: 61797545829944850, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_Size.y
-      value: 0.8107011
+      value: 0.44694087
       objectReference: {fileID: 0}
     - target: {fileID: 50247877222550410, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_UseAutoMass
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 50247877222550410, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_Mass
-      value: 1
+      value: 0.7598033
       objectReference: {fileID: 0}
     - target: {fileID: 50247877222550410, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
@@ -200,16 +200,16 @@ Prefab:
     - target: {fileID: 95842681686586496, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 212025592815877566, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4970164624061702, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.141
+      value: 0.149
       objectReference: {fileID: 0}
     - target: {fileID: 1109122353255572, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_IsActive
@@ -217,11 +217,30 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4970164624061702, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.685
+      value: -0.69
       objectReference: {fileID: 0}
     - target: {fileID: 1668783940677460, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400729035800476, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.084
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_WhatIsGround.m_Bits
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_JumpForce
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 61797545829944850, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.26249585
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
@@ -729,3 +748,41 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1 &1953045262 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1899621774689908, guid: eec953429a15249e984d2bcb04e907e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 40446356}
+--- !u!60 &1953045270
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1953045262}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.2043254, y: -0.32454658}
+      - {x: 0.0567816, y: -0.34181646}
+      - {x: -0.054236792, y: -0.33542827}
+      - {x: -0.06878794, y: -0.43851435}
+      - {x: 0.032762717, y: -0.6787701}
+      - {x: 0.25673404, y: -0.68431246}
+      - {x: 0.2767315, y: -0.64619374}
+      - {x: 0.2235765, y: -0.4984076}
+      - {x: 0.25611344, y: -0.36952946}
