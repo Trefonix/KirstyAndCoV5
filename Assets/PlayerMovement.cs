@@ -10,7 +10,13 @@ public class PlayerMovement : MonoBehaviour {
 
     public float runSpeed = 40f; // Variable to store the speed at which the character will move in-game
 
+<<<<<<< HEAD
     private Animator anim;
+=======
+    public bool playerjump = false; // Variable to store if the player has started a jump
+
+    public bool playercrouch = false; // Variable to store if the player is currently crouching
+>>>>>>> 2daf40bbf02e32c0d42d25a7b5bc1bd299fe8989
 
     public bool isRunning;
 
@@ -22,6 +28,7 @@ public class PlayerMovement : MonoBehaviour {
         anim.SetBool("isRunning", isRunning);
         // Get input from player
         HorizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed; // Returns a value based on user input for horizontal movement e.g -1 = Left Arrow, 1 = Right Arrow, 0 = null
+<<<<<<< HEAD
         if (Input.GetAxisRaw("Horizontal") > 0 || Input.GetAxisRaw("Horizontal") < 0)
         {
             isRunning = true;
@@ -30,14 +37,29 @@ public class PlayerMovement : MonoBehaviour {
         {
             isRunning = false;
         }         
+=======
+        if(Input.GetButtonDown("Jump"))  // Returns a value based on if the user has pressed the button bound to 'Jump'
+        {
+            playerjump = true; // Tells fixedupdate that the player wishes to jump
+        }
+       // if(Input.GetButtonDown("Crouch"))
+       // {
+        //    playercrouch = true;
+      //  } else if(Input.GetButtonUp("Crouch"))
+      //  {
+      //      playercrouch = false;
+     //   }
+>>>>>>> 2daf40bbf02e32c0d42d25a7b5bc1bd299fe8989
 	}
 
     // FixedUpdate is called a fixed number of times per second
     private void FixedUpdate()
     {
         // Move the character
-        Controller.Move(HorizontalMove * Time.fixedDeltaTime, false, false); // Move the character based on input from the "Input.GetAxisRaw" for horizontal axis. False for crouching, False for jumping.
+        Controller.Move(HorizontalMove * Time.fixedDeltaTime, false, playerjump); // Move the character based on input from the "Input.GetAxisRaw" for horizontal axis. Start crouching or jumping if applicable
         //Time.fixedDeltaTime references the time since the subroutine was last called to allow for consistent speed across platforms
+        playerjump = false; // Automatically reset the value of 'playerjump' to prevent continuous jumping
+
 
     }
 }
