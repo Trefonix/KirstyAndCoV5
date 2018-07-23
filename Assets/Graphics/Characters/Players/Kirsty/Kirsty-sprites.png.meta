@@ -38,6 +38,10 @@ TextureImporter:
     21300062: Kirsty Body Front
     21300064: Kirsty Front Foot
     21300066: Kirsty Mouth Open 2
+    21300068: Kirsty Bottom Ear Side
+    21300070: Kirsty GunArm Frame 1
+    21300072: Kirsty GunArm Frame 2
+    21300074: Kirsty GunArm Frame 3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -118,7 +122,7 @@ TextureImporter:
       name: Kirsty Right Top Leg
       rect:
         serializedVersion: 2
-        x: 7
+        x: 35
         y: 79
         width: 10
         height: 20
@@ -132,7 +136,7 @@ TextureImporter:
       name: Kirsty Left Top Leg
       rect:
         serializedVersion: 2
-        x: 31
+        x: 59
         y: 75
         width: 10
         height: 20
@@ -146,7 +150,7 @@ TextureImporter:
       name: Kirsty Right Bottom Arm
       rect:
         serializedVersion: 2
-        x: 47
+        x: 75
         y: 74
         width: 14
         height: 22
@@ -160,7 +164,7 @@ TextureImporter:
       name: Kirsty Right Top Ear
       rect:
         serializedVersion: 2
-        x: 65
+        x: 93
         y: 81
         width: 11
         height: 14
@@ -174,7 +178,7 @@ TextureImporter:
       name: Kirsty Right Main Bow
       rect:
         serializedVersion: 2
-        x: 83
+        x: 111
         y: 85
         width: 15
         height: 9
@@ -188,7 +192,7 @@ TextureImporter:
       name: Kirsty Right Bottom Ear
       rect:
         serializedVersion: 2
-        x: 65
+        x: 93
         y: 63
         width: 9
         height: 11
@@ -202,7 +206,7 @@ TextureImporter:
       name: Kirsty Right Bottom Leg
       rect:
         serializedVersion: 2
-        x: 7
+        x: 35
         y: 62
         width: 10
         height: 16
@@ -216,7 +220,7 @@ TextureImporter:
       name: Kirsty Left Bottom Leg
       rect:
         serializedVersion: 2
-        x: 31
+        x: 59
         y: 53
         width: 10
         height: 16
@@ -230,7 +234,7 @@ TextureImporter:
       name: Kirsty Right Hand Fist
       rect:
         serializedVersion: 2
-        x: 48
+        x: 76
         y: 53
         width: 13
         height: 15
@@ -244,7 +248,7 @@ TextureImporter:
       name: Kirsty Right Foot
       rect:
         serializedVersion: 2
-        x: 7
+        x: 35
         y: 42
         width: 15
         height: 11
@@ -258,7 +262,7 @@ TextureImporter:
       name: Kirsty Foot Left
       rect:
         serializedVersion: 2
-        x: 31
+        x: 59
         y: 34
         width: 15
         height: 11
@@ -272,7 +276,7 @@ TextureImporter:
       name: Kirsty Body
       rect:
         serializedVersion: 2
-        x: 15
+        x: 43
         y: 5
         width: 18
         height: 22
@@ -286,7 +290,7 @@ TextureImporter:
       name: Kirsty Pupil
       rect:
         serializedVersion: 2
-        x: 48
+        x: 76
         y: 17
         width: 2
         height: 2
@@ -300,7 +304,7 @@ TextureImporter:
       name: Kirsty Right Brow
       rect:
         serializedVersion: 2
-        x: 54
+        x: 82
         y: 42
         width: 6
         height: 3
@@ -314,7 +318,7 @@ TextureImporter:
       name: Kirsty Left Brow
       rect:
         serializedVersion: 2
-        x: 68
+        x: 96
         y: 42
         width: 6
         height: 3
@@ -328,7 +332,7 @@ TextureImporter:
       name: Kirsty Eye
       rect:
         serializedVersion: 2
-        x: 52
+        x: 80
         y: 28
         width: 8
         height: 9
@@ -342,7 +346,7 @@ TextureImporter:
       name: Kirsty Head
       rect:
         serializedVersion: 2
-        x: 63
+        x: 91
         y: 6
         width: 20
         height: 22
@@ -356,7 +360,7 @@ TextureImporter:
       name: Kirsty Left Hand Fist
       rect:
         serializedVersion: 2
-        x: 90
+        x: 118
         y: 6
         width: 16
         height: 18
@@ -370,7 +374,7 @@ TextureImporter:
       name: Kirsty Right Top Ear Side
       rect:
         serializedVersion: 2
-        x: 110
+        x: 139
         y: 47
         width: 11
         height: 16
@@ -381,52 +385,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Kirsty Right Ear Bottom Side
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 42
-        width: 8
-        height: 13
-      alignment: 9
-      pivot: {x: 0.483128, y: 0.9555196}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Kirsty Right Bow
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 43
-        width: 11
-        height: 9
-      alignment: 9
-      pivot: {x: 0.058604155, y: 0.4377522}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Kirsty Left Main Bow
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 57
-        width: 15
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
       name: Kirsty Left Bow
       rect:
         serializedVersion: 2
-        x: 87
+        x: 115
         y: 72
         width: 11
         height: 9
@@ -440,7 +402,7 @@ TextureImporter:
       name: Kirsty Mouth
       rect:
         serializedVersion: 2
-        x: 48
+        x: 76
         y: 8
         width: 7
         height: 5
@@ -454,7 +416,7 @@ TextureImporter:
       name: Kirsty Left Bottom Arm
       rect:
         serializedVersion: 2
-        x: 106
+        x: 134
         y: 70
         width: 14
         height: 22
@@ -468,7 +430,7 @@ TextureImporter:
       name: Kirsty nose
       rect:
         serializedVersion: 2
-        x: 70
+        x: 98
         y: 35
         width: 2
         height: 2
@@ -482,7 +444,7 @@ TextureImporter:
       name: Kirsty-closed-eye
       rect:
         serializedVersion: 2
-        x: 86
+        x: 114
         y: 30
         width: 7
         height: 6
@@ -496,7 +458,7 @@ TextureImporter:
       name: Kirsty-Hand-Open
       rect:
         serializedVersion: 2
-        x: 128
+        x: 156
         y: 73
         width: 16
         height: 16
@@ -510,7 +472,7 @@ TextureImporter:
       name: Kirsty Hand Open Shadow
       rect:
         serializedVersion: 2
-        x: 149
+        x: 177
         y: 72
         width: 16
         height: 16
@@ -524,7 +486,7 @@ TextureImporter:
       name: Kirsty-mouth-open
       rect:
         serializedVersion: 2
-        x: 127
+        x: 155
         y: 58
         width: 16
         height: 12
@@ -538,7 +500,7 @@ TextureImporter:
       name: Kirsty Hand Open Front
       rect:
         serializedVersion: 2
-        x: 149
+        x: 177
         y: 52
         width: 16
         height: 16
@@ -552,7 +514,7 @@ TextureImporter:
       name: Kirsty Body Front
       rect:
         serializedVersion: 2
-        x: 111
+        x: 139
         y: 5
         width: 18
         height: 22
@@ -566,7 +528,7 @@ TextureImporter:
       name: Kirsty Front Foot
       rect:
         serializedVersion: 2
-        x: 102
+        x: 130
         y: 30
         width: 13
         height: 13
@@ -580,12 +542,68 @@ TextureImporter:
       name: Kirsty Mouth Open 2
       rect:
         serializedVersion: 2
-        x: 142
+        x: 170
         y: 47
         width: 7
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty Bottom Ear Side
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 42
+        width: 8
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty GunArm Frame 1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 14
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty GunArm Frame 2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 14
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirsty GunArm Frame 3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 11
+        width: 14
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
