@@ -227,7 +227,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4437231334954948, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.011
+      value: -1.273
       objectReference: {fileID: 0}
     - target: {fileID: 4437231334954948, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_LocalPosition.y
@@ -256,6 +256,11 @@ Prefab:
     - target: {fileID: 4437231334954948, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 95842681686586496, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
@@ -473,6 +478,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Controller: {fileID: 1299807024}
   runSpeed: 40
+  playerjump: 0
+  playercrouch: 0
+  isRunning: 0
 --- !u!1 &1394192147
 GameObject:
   m_ObjectHideFlags: 0
