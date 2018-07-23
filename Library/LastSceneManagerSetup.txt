@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Stu Sample Scene.unity
+=======
+- path: Assets/Scenes/Bob Scene.unity
+>>>>>>> 7d83019897ac3febfb671a44f104cfea732f7ef5
   isLoaded: 1
   isActive: 1
