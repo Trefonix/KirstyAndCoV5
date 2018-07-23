@@ -402,7 +402,11 @@ MonoBehaviour:
   m_AirControl: 1
   m_WhatIsGround:
     serializedVersion: 2
+<<<<<<< HEAD
+    m_Bits: 256
+=======
     m_Bits: 23
+>>>>>>> 2daf40bbf02e32c0d42d25a7b5bc1bd299fe8989
   m_GroundCheck: {fileID: 529937959}
   m_CeilingCheck: {fileID: 1579651742}
   m_CrouchDisableCollider: {fileID: 0}
@@ -443,7 +447,7 @@ GameObject:
   - component: {fileID: 1394192149}
   - component: {fileID: 1394192153}
   - component: {fileID: 1394192151}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
