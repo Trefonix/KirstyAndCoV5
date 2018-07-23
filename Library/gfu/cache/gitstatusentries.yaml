@@ -12,30 +12,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-07-23T15:43:15.982+01:00
-  initializedAtString: 2018-07-23T15:37:03.171+01:00
+  lastUpdatedAtString: 2018-07-23T16:23:08.442+01:00
+  initializedAtString: 2018-07-23T16:13:27.612+01:00
   entries:
-  - path: .vs/KirstyAndCoV5/xs/UserPrefs.xml
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/.vs/KirstyAndCoV5/xs/UserPrefs.xml
-    projectPath: .vs/KirstyAndCoV5/xs/UserPrefs.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/PlayerMovement.cs
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assets/PlayerMovement.cs
-    projectPath: Assets/PlayerMovement.cs
+  - path: Assets/Animation/Character/Players/Kirsty/Kirsty.controller
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assets/Animation/Character/Players/Kirsty/Kirsty.controller
+    projectPath: Assets/Animation/Character/Players/Kirsty/Kirsty.controller
     originalPath: 
     status: 3
     staged: 0
   - path: Assets/Scenes/SampleScene.unity
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assets/Scenes/SampleScene.unity
     projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Scenes/Stu Sample Scene.unity
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assets/Scenes/Stu Sample
+      Scene.unity
+    projectPath: Assets/Scenes/Stu Sample Scene.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scenes/Stu Sample Scene.unity.meta
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assets/Scenes/Stu Sample
+      Scene.unity.meta
+    projectPath: Assets/Scenes/Stu Sample Scene.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
@@ -69,69 +89,81 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/metadata/5a/5a5ea7c9eb1ff4f4e93f9b07d94e337e
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/5a/5a5ea7c9eb1ff4f4e93f9b07d94e337e
+    projectPath: Library/metadata/5a/5a5ea7c9eb1ff4f4e93f9b07d94e337e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/5a/5a5ea7c9eb1ff4f4e93f9b07d94e337e.info
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/5a/5a5ea7c9eb1ff4f4e93f9b07d94e337e.info
+    projectPath: Library/metadata/5a/5a5ea7c9eb1ff4f4e93f9b07d94e337e.info
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Temp/UnityLockfile
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityLockfile
     projectPath: Temp/UnityLockfile
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-0497fdc91d24e461f9d268e664ead249
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-0497fdc91d24e461f9d268e664ead249
-    projectPath: Temp/UnityTempFile-0497fdc91d24e461f9d268e664ead249
+  - path: Temp/UnityTempFile-32afa8b6f24164e98894812c09b09f95
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-32afa8b6f24164e98894812c09b09f95
+    projectPath: Temp/UnityTempFile-32afa8b6f24164e98894812c09b09f95
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-17f95eb930a0848558ed9ca9b88b7047
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-17f95eb930a0848558ed9ca9b88b7047
-    projectPath: Temp/UnityTempFile-17f95eb930a0848558ed9ca9b88b7047
+  - path: Temp/UnityTempFile-330ad122e7cbc49a6910e9b4c3516b85
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-330ad122e7cbc49a6910e9b4c3516b85
+    projectPath: Temp/UnityTempFile-330ad122e7cbc49a6910e9b4c3516b85
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-259c4309fa1fd4933bf30467160c463e
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-259c4309fa1fd4933bf30467160c463e
-    projectPath: Temp/UnityTempFile-259c4309fa1fd4933bf30467160c463e
+  - path: Temp/UnityTempFile-4b58cb0b2de9b4935b2117cd993e7e9e
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-4b58cb0b2de9b4935b2117cd993e7e9e
+    projectPath: Temp/UnityTempFile-4b58cb0b2de9b4935b2117cd993e7e9e
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-48829cae5a23e4a72929e7fdb651eaef
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-48829cae5a23e4a72929e7fdb651eaef
-    projectPath: Temp/UnityTempFile-48829cae5a23e4a72929e7fdb651eaef
+  - path: Temp/UnityTempFile-7e467c8b01439479c9e47f80d7f9927c
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-7e467c8b01439479c9e47f80d7f9927c
+    projectPath: Temp/UnityTempFile-7e467c8b01439479c9e47f80d7f9927c
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-5017bf8728d3e4e4899a2b0758de18a4
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-5017bf8728d3e4e4899a2b0758de18a4
-    projectPath: Temp/UnityTempFile-5017bf8728d3e4e4899a2b0758de18a4
+  - path: Temp/UnityTempFile-89e9805d5dfd94ac2bcc3dfba1cd5f7d
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-89e9805d5dfd94ac2bcc3dfba1cd5f7d
+    projectPath: Temp/UnityTempFile-89e9805d5dfd94ac2bcc3dfba1cd5f7d
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-77c8d7498b6d9445d8356dbc89f40de9
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-77c8d7498b6d9445d8356dbc89f40de9
-    projectPath: Temp/UnityTempFile-77c8d7498b6d9445d8356dbc89f40de9
+  - path: Temp/UnityTempFile-b64d128c91f6c497cbd7bccb7a3c328f
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-b64d128c91f6c497cbd7bccb7a3c328f
+    projectPath: Temp/UnityTempFile-b64d128c91f6c497cbd7bccb7a3c328f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-92bf1cb583ce04d0b8b35071ce24753e
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-92bf1cb583ce04d0b8b35071ce24753e
-    projectPath: Temp/UnityTempFile-92bf1cb583ce04d0b8b35071ce24753e
+  - path: Temp/UnityTempFile-c40a8ec742f6d4bb58cd999abbb4c1ac
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-c40a8ec742f6d4bb58cd999abbb4c1ac
+    projectPath: Temp/UnityTempFile-c40a8ec742f6d4bb58cd999abbb4c1ac
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-957b7adc8b1b44c36a8d64f70dc91e57
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-957b7adc8b1b44c36a8d64f70dc91e57
-    projectPath: Temp/UnityTempFile-957b7adc8b1b44c36a8d64f70dc91e57
+  - path: Temp/UnityTempFile-e6c2ec65c5bb347159bbdd5af550d5e2
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-e6c2ec65c5bb347159bbdd5af550d5e2
+    projectPath: Temp/UnityTempFile-e6c2ec65c5bb347159bbdd5af550d5e2
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-b96ce70d9df984736bc946f0b23d2d23
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-b96ce70d9df984736bc946f0b23d2d23
-    projectPath: Temp/UnityTempFile-b96ce70d9df984736bc946f0b23d2d23
+  - path: Temp/UnityTempFile-fc378cf342c4946daa880a41dd6a6dd4
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-fc378cf342c4946daa880a41dd6a6dd4
+    projectPath: Temp/UnityTempFile-fc378cf342c4946daa880a41dd6a6dd4
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-ef78e8d6f0fa142beaa97657abb92769
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-ef78e8d6f0fa142beaa97657abb92769
-    projectPath: Temp/UnityTempFile-ef78e8d6f0fa142beaa97657abb92769
+  - path: Temp/UnityTempFile-fcc93e7ff42a64b2e90b293554cf4e8d
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-fcc93e7ff42a64b2e90b293554cf4e8d
+    projectPath: Temp/UnityTempFile-fcc93e7ff42a64b2e90b293554cf4e8d
     originalPath: 
     status: 1
     staged: 0
