@@ -12,13 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-07-23T16:25:43.795+01:00
-  initializedAtString: 2018-07-23T16:25:43.795+01:00
-=======
-  lastUpdatedAtString: 2018-07-23T16:32:37.593+01:00
-  initializedAtString: 2018-07-23T16:32:37.593+01:00
->>>>>>> d59e0934a0cdadafd44fa14a68dab9f93a28863b
+  lastUpdatedAtString: 2018-07-23T19:47:00.731+01:00
+  initializedAtString: 2018-07-23T19:47:00.731+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/Trefonix/KirstyAndCoV5.git
@@ -39,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/Trefonix/KirstyAndCoV5.git
-  currentHead: e87afe7
+  currentHead: 377cf80
