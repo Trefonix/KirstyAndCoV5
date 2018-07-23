@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-07-20T17:25:42.618+01:00
-  initializedAtString: 2018-07-20T16:50:23.198+01:00
+  lastUpdatedAtString: 2018-07-22T23:34:12.407+01:00
+  initializedAtString: 2018-07-22T23:34:12.381+01:00
   localBranches:
   - name: master
-    tracking: '[None]'
+    tracking: origin/master
   remoteBranches:
-  - name: origin/master
+  - name: origin/HEAD
     tracking: '[None]'
   remotes:
   - name: origin
@@ -34,18 +34,18 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Trefonix/KirstyAndCoV5.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - master
+      - HEAD
     subKeyValues:
     - Values:
-      - name: master
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/Trefonix/KirstyAndCoV5.git

@@ -1,0 +1,16 @@
+Kirsty and Co Patchnotes
+--------------------------------------------------------
+
+22/07/2018 [Version 0.0.1]
+
+Features:
+- Added horizontal movement for character
+- Added a collider for temporary floor surface
+- Various Animations added
+
+Bugfixes
+- N/A
+
+--------------------------------------------------------
+
+
