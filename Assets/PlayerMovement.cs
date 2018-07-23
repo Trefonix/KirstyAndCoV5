@@ -10,12 +10,26 @@ public class PlayerMovement : MonoBehaviour {
 
     public float runSpeed = 40f; // Variable to store the speed at which the character will move in-game
 
+    private Animator anim;
 
+    public bool isRunning;
+
+    void Start(){
+        anim = GetComponent<Animator>();
+    }
 	// Update is called once per frame
 	void Update () {
+        anim.SetBool("isRunning", isRunning);
         // Get input from player
         HorizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed; // Returns a value based on user input for horizontal movement e.g -1 = Left Arrow, 1 = Right Arrow, 0 = null
-
+        if (Input.GetAxisRaw("Horizontal") > 0 || Input.GetAxisRaw("Horizontal") < 0)
+        {
+            isRunning = true;
+        }
+        else
+        {
+            isRunning = false;
+        }         
 	}
 
     // FixedUpdate is called a fixed number of times per second
