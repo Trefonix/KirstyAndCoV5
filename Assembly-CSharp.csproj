@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\followPlayer.cs" />
+    <Compile Include="Assets\MovePlayerBack.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Camera_Movement.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
