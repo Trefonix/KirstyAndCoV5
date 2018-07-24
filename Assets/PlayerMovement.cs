@@ -16,37 +16,51 @@ public class PlayerMovement : MonoBehaviour {
 
     public bool playercrouch = false; // Variable to store if the player is currently crouching
 
-    public bool isRunning;
+    public bool isRunning; // Is the character running?
 
+    public Vector3 SpawnPosition;
+
+   
     void Start()
     {
+        
         anim = GetComponent<Animator>();
+        SpawnPosition = transform.position;
+
     }
 	// Update is called once per frame
 
 	void Update () {
+        
+
         anim.SetBool("isRunning", isRunning);
+
+
+        
         // Get input from player
         HorizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed; // Returns a value based on user input for horizontal movement e.g -1 = Left Arrow, 1 = Right Arrow, 0 = null
-        if (Input.GetAxisRaw("Horizontal") > 0 || Input.GetAxisRaw("Horizontal") < 0)
+
+        if (Input.GetAxisRaw("Horizontal") > 0 || Input.GetAxisRaw("Horizontal") < 0) // Tell the animator that the character is running
         {
             isRunning = true;
         }
         else
         {
             isRunning = false;
-        }         
-        if(Input.GetButtonDown("Jump"))  // Returns a value based on if the user has pressed the button bound to 'Jump'
+        }
+
+        if (Input.GetButtonDown("Jump"))  // Returns a value based on if the user has pressed the button bound to 'Jump'
         {
             playerjump = true; // Tells fixedupdate that the player wishes to jump
         }
-       // if(Input.GetButtonDown("Crouch"))
-       // {
-        //    playercrouch = true;
-      //  } else if(Input.GetButtonUp("Crouch"))
-      //  {
-      //      playercrouch = false;
-     //   }
+        if(transform.position.y < -15)
+        {
+            Debug.Log("Shouldbeworking");
+
+            transform.position = SpawnPosition;
+            
+
+        }
 	}
 
     // FixedUpdate is called a fixed number of times per second
