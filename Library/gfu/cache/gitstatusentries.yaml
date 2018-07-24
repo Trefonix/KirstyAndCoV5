@@ -12,8 +12,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-07-24T18:06:16.923+01:00
   initializedAtString: 2018-07-24T17:18:03.401+01:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-07-24T17:18:06.597+01:00
+  initializedAtString: 2018-07-24T17:18:06.597+01:00
+  entries:
+  - path: Assets/Scenes/Bob Scene.unity
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assets/Scenes/Bob Scene.unity
+    projectPath: Assets/Scenes/Bob Scene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/EditorInstance.json
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+=======
+  lastUpdatedAtString: 2018-07-24T17:15:54.098+01:00
+  initializedAtString: 2018-07-24T17:02:48.548+01:00
+>>>>>>> 88b62fc6312bbce680d5c5d08f18e04121a5c126
   entries:
   - path: .vs\KirstyAndCoV5\v15\.suo
     fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\.vs\KirstyAndCoV5\v15\.suo
@@ -93,6 +136,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -102,9 +146,82 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+=======
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+>>>>>>> 7243cbce04a42297a21b3c5f4e2976efec57c367
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\PlayerDataCache\Win\Data\level0
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\PlayerDataCache\Win\Data\level0
+    projectPath: Library\PlayerDataCache\Win\Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win\ScriptLayoutHashes.txt
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\PlayerDataCache\Win\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\Win\ScriptLayoutHashes.txt
+>>>>>>> 88b62fc6312bbce680d5c5d08f18e04121a5c126
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
+  - path: Temp/UnityLockfile
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-0b27793752c4e4adbb5402eeffee6375
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-0b27793752c4e4adbb5402eeffee6375
+    projectPath: Temp/UnityTempFile-0b27793752c4e4adbb5402eeffee6375
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-240729cafb18648498c2bbc2ff9dcbb1
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-240729cafb18648498c2bbc2ff9dcbb1
+    projectPath: Temp/UnityTempFile-240729cafb18648498c2bbc2ff9dcbb1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-3ad2886b9030d4a3fbff5deca4722e56
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-3ad2886b9030d4a3fbff5deca4722e56
+    projectPath: Temp/UnityTempFile-3ad2886b9030d4a3fbff5deca4722e56
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-75da34a36c82e40a394661e1cef592c0
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-75da34a36c82e40a394661e1cef592c0
+    projectPath: Temp/UnityTempFile-75da34a36c82e40a394661e1cef592c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-962818b147fa647e5907db2ee5448901
+    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Temp/UnityTempFile-962818b147fa647e5907db2ee5448901
+    projectPath: Temp/UnityTempFile-962818b147fa647e5907db2ee5448901
+    originalPath: 
+    status: 1
+=======
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -224,4 +341,5 @@ MonoBehaviour:
     projectPath: Temp\UnityTempFile-f5e0f3aee0841f346bdb9e4b8625a520
     originalPath: 
     status: 1
+>>>>>>> 7243cbce04a42297a21b3c5f4e2976efec57c367
     staged: 0
