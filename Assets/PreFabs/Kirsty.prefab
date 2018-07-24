@@ -168,7 +168,7 @@ GameObject:
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1113732227236378
 GameObject:
   m_ObjectHideFlags: 0
@@ -672,7 +672,7 @@ GameObject:
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1674749951086308
 GameObject:
   m_ObjectHideFlags: 1
@@ -1021,6 +1021,7 @@ GameObject:
   - component: {fileID: 61797545829944850}
   - component: {fileID: 114396798701810772}
   - component: {fileID: 114581977186280446}
+  - component: {fileID: 60918618936055186}
   m_Layer: 0
   m_Name: Kirsty
   m_TagString: Untagged
@@ -1472,7 +1473,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1668783940677460}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.103, y: 0.095, z: 0}
+  m_LocalPosition: {x: 0.084, y: 0.095, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4437231334954948}
@@ -1526,7 +1527,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1899621774689908}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.011, y: -1.69, z: 0.041227}
+  m_LocalPosition: {x: -2.81, y: -1.42, z: 0.041227}
   m_LocalScale: {x: 1.6135, y: 1.6135, z: 1.6135}
   m_Children:
   - {fileID: 4970164624061702}
@@ -2035,7 +2036,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1109122353255572}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.128, y: -0.662, z: 0.020350635}
+  m_LocalPosition: {x: 0.149, y: -0.69, z: 0.020350635}
   m_LocalScale: {x: 0.6197707, y: 0.6197707, z: 0.6197707}
   m_Children: []
   m_Father: {fileID: 4437231334954948}
@@ -2082,15 +2083,48 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 0.74977416
+  m_Mass: 0.5352851
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 3
+  m_GravityScale: 2
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!60 &60918618936055186
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1899621774689908}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.2043254, y: -0.32454658}
+      - {x: 0.0567816, y: -0.34181646}
+      - {x: -0.054236792, y: -0.33542827}
+      - {x: -0.06878794, y: -0.43851435}
+      - {x: 0.03404975, y: -0.65302473}
+      - {x: 0.27217636, y: -0.6559923}
+      - {x: 0.2767315, y: -0.64619374}
+      - {x: 0.2235765, y: -0.4984076}
+      - {x: 0.25611344, y: -0.36952946}
 --- !u!61 &61797545829944850
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -2103,7 +2137,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.1, y: -0.28}
+  m_Offset: {x: 0.07809709, y: -0.11760615}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2114,7 +2148,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.36, y: 0.8}
+  m_Size: {x: 0.26249585, y: 0.44694087}
   m_EdgeRadius: 0
 --- !u!95 &95842681686586496
 Animator:
@@ -2128,7 +2162,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 82e62f2828ec84523b9fb33b6d3e0b80, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -2145,13 +2179,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e25bc1eb55bd1496dad47e963733cde3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_JumpForce: 700
+  m_JumpForce: 300
   m_CrouchSpeed: 0.36
   m_MovementSmoothing: 0.05
   m_AirControl: 1
   m_WhatIsGround:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 4294967295
   m_GroundCheck: {fileID: 4970164624061702}
   m_CeilingCheck: {fileID: 4400729035800476}
   m_CrouchDisableCollider: {fileID: 0}
@@ -2177,7 +2211,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Controller: {fileID: 114396798701810772}
-  runSpeed: 40
+  runSpeed: 200
+  playerjump: 0
+  playercrouch: 0
+  isRunning: 0
+  SpawnPosition: {x: 0, y: 0, z: 0}
 --- !u!212 &212025592815877566
 SpriteRenderer:
   m_ObjectHideFlags: 1
