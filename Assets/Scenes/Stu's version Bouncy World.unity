@@ -152,6 +152,21 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_DoubleJumpForce
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_DoubleJumpEnabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 50247877222550410, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: a371b0feb00522149a77e3fef920bc0e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
   m_IsPrefabAsset: 0
