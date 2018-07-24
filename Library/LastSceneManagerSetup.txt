@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Bob Scene.unity
-=======
 - path: Assets/Scenes/Bouncy World.unity
->>>>>>> 7243cbce04a42297a21b3c5f4e2976efec57c367
   isLoaded: 1
   isActive: 1
