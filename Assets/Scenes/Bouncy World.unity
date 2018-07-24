@@ -252,6 +252,21 @@ Prefab:
       propertyPath: runSpeed
       value: 200
       objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_AirControl
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 50247877222550410, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_AngularDrag
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: d_jump_enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eec953429a15249e984d2bcb04e907e2, type: 2}
   m_IsPrefabAsset: 0
