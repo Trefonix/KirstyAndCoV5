@@ -1,4 +1,16 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Bouncy World.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Test Animation.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Bouncy World.unity
+=======
+- path: Assets/Scenes/Stu's version Bouncy World.unity
+>>>>>>> 094ba05d4d3d32d657997491b408504a4d38e893
+>>>>>>> 01ef6fc1bf97e68757c79e00f0d6bb6174772d7b
+>>>>>>> 6aee65a7264b68683df99b31c3b6f858b85f76fb
   isLoaded: 1
   isActive: 1
