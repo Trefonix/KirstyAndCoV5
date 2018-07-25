@@ -12,11 +12,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-07-24T18:12:03.548+01:00
-  initializedAtString: 2018-07-24T18:10:41.470+01:00
-=======
-  lastUpdatedAtString: 2018-07-24T18:53:39.808+01:00
-  initializedAtString: 2018-07-24T18:08:54.330+01:00
->>>>>>> 094ba05d4d3d32d657997491b408504a4d38e893
+  lastUpdatedAtString: 2018-07-25T14:54:14.946+01:00
+  initializedAtString: 2018-07-25T14:51:47.987+01:00
   gitLocks: []

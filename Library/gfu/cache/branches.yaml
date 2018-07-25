@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-07-24T18:12:02.338+01:00
-  initializedAtString: 2018-07-24T18:12:02.318+01:00
+  lastUpdatedAtString: 2018-07-25T14:54:14.196+01:00
+  initializedAtString: 2018-07-25T14:54:14.180+01:00
   localBranches:
   - name: master
     tracking: origin/master
