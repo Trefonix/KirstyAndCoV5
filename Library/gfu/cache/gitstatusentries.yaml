@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-07-25T14:51:48.658+01:00
   initializedAtString: 2018-07-25T14:51:48.658+01:00
+=======
+  lastUpdatedAtString: 2018-07-25T14:59:36.457+01:00
+  initializedAtString: 2018-07-25T14:59:35.650+01:00
+>>>>>>> 9a8f8aa053332db62511d8440abc56d746d0b90e
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Assembly-CSharp.csproj
@@ -33,36 +38,43 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: Library/assetDatabase3
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/assetDatabase3
     projectPath: Library/assetDatabase3
+=======
+  - path: .vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\.vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide
+>>>>>>> 9a8f8aa053332db62511d8440abc56d746d0b90e
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/CurrentLayout.dwlt
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
+  - path: .vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\.vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide-shm
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/EditorInstance.json
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/gfu/cache/gitlocks.yaml
-    projectPath: Library/gfu/cache/gitlocks.yaml
+  - path: .vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\.vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\KirstyAndCoV5\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/gfu/cache/gitstatusentries.yaml
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
+  - path: Assets\Animation\Character\Players\Kirsty\Kirsty.controller
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Assets\Animation\Character\Players\Kirsty\Kirsty.controller
+    projectPath: Assets\Animation\Character\Players\Kirsty\Kirsty.controller
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
@@ -114,9 +126,45 @@ MonoBehaviour:
   - path: Library/metadata/00/001eee52cc027419f924a78f08d93475.info
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/00/001eee52cc027419f924a78f08d93475.info
     projectPath: Library/metadata/00/001eee52cc027419f924a78f08d93475.info
+=======
+  - path: Assets\Scenes\Bouncy World.unity
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Assets\Scenes\Bouncy World.unity
+    projectPath: Assets\Scenes\Bouncy World.unity
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
+  - path: Assets\Scripts\PlayerMovement.cs
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Assets\Scripts\PlayerMovement.cs
+    projectPath: Assets\Scripts\PlayerMovement.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: KirstyAndCoV5.sln
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\KirstyAndCoV5.sln
+    projectPath: KirstyAndCoV5.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+>>>>>>> 9a8f8aa053332db62511d8440abc56d746d0b90e
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
     projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
@@ -444,9 +492,483 @@ MonoBehaviour:
   - path: Library/metadata/40/4085e61fc0acc174c8a0c0184b21859b
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/40/4085e61fc0acc174c8a0c0184b21859b
     projectPath: Library/metadata/40/4085e61fc0acc174c8a0c0184b21859b
+=======
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\001eee52cc027419f924a78f08d93475
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\00\001eee52cc027419f924a78f08d93475
+    projectPath: Library\metadata\00\001eee52cc027419f924a78f08d93475
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\00\001eee52cc027419f924a78f08d93475.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\00\001eee52cc027419f924a78f08d93475.info
+    projectPath: Library\metadata\00\001eee52cc027419f924a78f08d93475.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\16\16aab86b6720f4497aae71e893479109
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\16\16aab86b6720f4497aae71e893479109
+    projectPath: Library\metadata\16\16aab86b6720f4497aae71e893479109
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\16\16aab86b6720f4497aae71e893479109.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\16\16aab86b6720f4497aae71e893479109.info
+    projectPath: Library\metadata\16\16aab86b6720f4497aae71e893479109.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1f\1f47203e1fa48426e81e19d652193a13
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\1f\1f47203e1fa48426e81e19d652193a13
+    projectPath: Library\metadata\1f\1f47203e1fa48426e81e19d652193a13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\1f\1f47203e1fa48426e81e19d652193a13.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\1f\1f47203e1fa48426e81e19d652193a13.info
+    projectPath: Library\metadata\1f\1f47203e1fa48426e81e19d652193a13.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\32\32ec07d8e27bd72429cc41164b339c09
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\32\32ec07d8e27bd72429cc41164b339c09
+    projectPath: Library\metadata\32\32ec07d8e27bd72429cc41164b339c09
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a.info
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\44\44c594d812d584bb290842092fdc8199
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\44\44c594d812d584bb290842092fdc8199
+    projectPath: Library\metadata\44\44c594d812d584bb290842092fdc8199
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\44\44c594d812d584bb290842092fdc8199.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\44\44c594d812d584bb290842092fdc8199.info
+    projectPath: Library\metadata\44\44c594d812d584bb290842092fdc8199.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70.info
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+    projectPath: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+    projectPath: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\5e\5e20fad053b5f449a880838dc00899f2
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\5e\5e20fad053b5f449a880838dc00899f2
+    projectPath: Library\metadata\5e\5e20fad053b5f449a880838dc00899f2
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6c\6c1378c7f4f7a4c8785818f5c21f852a
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\6c\6c1378c7f4f7a4c8785818f5c21f852a
+    projectPath: Library\metadata\6c\6c1378c7f4f7a4c8785818f5c21f852a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6c\6c1378c7f4f7a4c8785818f5c21f852a.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\6c\6c1378c7f4f7a4c8785818f5c21f852a.info
+    projectPath: Library\metadata\6c\6c1378c7f4f7a4c8785818f5c21f852a.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6c\6c1e6148993623845baf773a5e1379c0
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\6c\6c1e6148993623845baf773a5e1379c0
+    projectPath: Library\metadata\6c\6c1e6148993623845baf773a5e1379c0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a.info
+    projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7d\7dbdcb5b44da943bbaf704e6a29d132e
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\7d\7dbdcb5b44da943bbaf704e6a29d132e
+    projectPath: Library\metadata\7d\7dbdcb5b44da943bbaf704e6a29d132e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7d\7dbdcb5b44da943bbaf704e6a29d132e.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\7d\7dbdcb5b44da943bbaf704e6a29d132e.info
+    projectPath: Library\metadata\7d\7dbdcb5b44da943bbaf704e6a29d132e.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\82\82e62f2828ec84523b9fb33b6d3e0b80
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\82\82e62f2828ec84523b9fb33b6d3e0b80
+    projectPath: Library\metadata\82\82e62f2828ec84523b9fb33b6d3e0b80
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\8d\8d2d34104b355db48aef41eff0c3a058
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\8d\8d2d34104b355db48aef41eff0c3a058
+    projectPath: Library\metadata\8d\8d2d34104b355db48aef41eff0c3a058
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+    projectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+    projectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\af\afe0eb55f02a84290acdad9df47449fe
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\af\afe0eb55f02a84290acdad9df47449fe
+    projectPath: Library\metadata\af\afe0eb55f02a84290acdad9df47449fe
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\af\afe0eb55f02a84290acdad9df47449fe.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\af\afe0eb55f02a84290acdad9df47449fe.info
+    projectPath: Library\metadata\af\afe0eb55f02a84290acdad9df47449fe.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b5\b5da970776034f77a070d99423d68791.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\b5\b5da970776034f77a070d99423d68791.info
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+    projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ce\ce29a2e10993749598e20c206ecbcb98
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ce\ce29a2e10993749598e20c206ecbcb98
+    projectPath: Library\metadata\ce\ce29a2e10993749598e20c206ecbcb98
+>>>>>>> 9a8f8aa053332db62511d8440abc56d746d0b90e
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
   - path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
     projectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
@@ -468,9 +990,45 @@ MonoBehaviour:
   - path: Library/metadata/46/46098a81a64a45c5b756320e10a22f13
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/46/46098a81a64a45c5b756320e10a22f13
     projectPath: Library/metadata/46/46098a81a64a45c5b756320e10a22f13
+=======
+  - path: Library\metadata\ce\ce29a2e10993749598e20c206ecbcb98.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ce\ce29a2e10993749598e20c206ecbcb98.info
+    projectPath: Library\metadata\ce\ce29a2e10993749598e20c206ecbcb98.info
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
+  - path: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+>>>>>>> 9a8f8aa053332db62511d8440abc56d746d0b90e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626.info
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+    projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+    originalPath: 
+    status: 1
+    staged: 0
+<<<<<<< HEAD
   - path: Library/metadata/46/46c02d8d6499b4309ac1ec5d0b818585
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/metadata/46/46c02d8d6499b4309ac1ec5d0b818585
     projectPath: Library/metadata/46/46c02d8d6499b4309ac1ec5d0b818585
@@ -1464,6 +2022,227 @@ MonoBehaviour:
   - path: UnityPackageManager/manifest.json
     fullPath: /Users/owner1/Documents/GitHub/KirstyAndCoV5/UnityPackageManager/manifest.json
     projectPath: UnityPackageManager/manifest.json
+=======
+  - path: Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+    projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a.info
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e7\e756a7f347390764d900429e767775b6
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\e7\e756a7f347390764d900429e767775b6
+    projectPath: Library\metadata\e7\e756a7f347390764d900429e767775b6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680.info
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea.info
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ef\ef6b40a02b18947159b0dbc99a5eb37d.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\ef\ef6b40a02b18947159b0dbc99a5eb37d.info
+    projectPath: Library\metadata\ef\ef6b40a02b18947159b0dbc99a5eb37d.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f1\f1510484e30424c34bddf2d471c336a8.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f1\f1510484e30424c34bddf2d471c336a8.info
+    projectPath: Library\metadata\f1\f1510484e30424c34bddf2d471c336a8.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+    projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fc\fc2742794b35a492c86c8d58e4b9fd6e.info
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\metadata\fc\fc2742794b35a492c86c8d58e4b9fd6e.info
+    projectPath: Library\metadata\fc\fc2742794b35a492c86c8d58e4b9fd6e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptMapper
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityTempFile-080f726dac4d03549b350e7ee279322c
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-080f726dac4d03549b350e7ee279322c
+    projectPath: Temp\UnityTempFile-080f726dac4d03549b350e7ee279322c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0a12468b9cb7743f899c7772fc3194f5
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-0a12468b9cb7743f899c7772fc3194f5
+    projectPath: Temp\UnityTempFile-0a12468b9cb7743f899c7772fc3194f5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-0ea3529712c35447d906aef2487b4fa9
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-0ea3529712c35447d906aef2487b4fa9
+    projectPath: Temp\UnityTempFile-0ea3529712c35447d906aef2487b4fa9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-0f47b8de5343eaa46af43bc46b268fff
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-0f47b8de5343eaa46af43bc46b268fff
+    projectPath: Temp\UnityTempFile-0f47b8de5343eaa46af43bc46b268fff
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-18dfd4cf178404f6182326a00aa8fcd6
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-18dfd4cf178404f6182326a00aa8fcd6
+    projectPath: Temp\UnityTempFile-18dfd4cf178404f6182326a00aa8fcd6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-244b8f7249829fc4db1d50ed5c5ae687
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-244b8f7249829fc4db1d50ed5c5ae687
+    projectPath: Temp\UnityTempFile-244b8f7249829fc4db1d50ed5c5ae687
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2ffc7f7483897fb428a74682647ec0c0
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-2ffc7f7483897fb428a74682647ec0c0
+    projectPath: Temp\UnityTempFile-2ffc7f7483897fb428a74682647ec0c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4198736199cfba9419ce0b9e54896e4e
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-4198736199cfba9419ce0b9e54896e4e
+    projectPath: Temp\UnityTempFile-4198736199cfba9419ce0b9e54896e4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-aa991fc5339c84d569cd45f7abbc16a5
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-aa991fc5339c84d569cd45f7abbc16a5
+    projectPath: Temp\UnityTempFile-aa991fc5339c84d569cd45f7abbc16a5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-f2a51007e71ba4dfab27182e5493e9e3
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\Temp\UnityTempFile-f2a51007e71ba4dfab27182e5493e9e3
+    projectPath: Temp\UnityTempFile-f2a51007e71ba4dfab27182e5493e9e3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: UnityPackageManager\manifest.json
+    fullPath: C:\Users\Alex\Documents\GitHub\KirstyAndCoV5\UnityPackageManager\manifest.json
+    projectPath: UnityPackageManager\manifest.json
+>>>>>>> 9a8f8aa053332db62511d8440abc56d746d0b90e
     originalPath: 
     status: 5
     staged: 0
