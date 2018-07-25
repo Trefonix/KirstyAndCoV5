@@ -12,11 +12,13 @@ public class PlayerMovement : MonoBehaviour {
     public bool playercrouch = false; // Variable to store if the player is currently crouching
     public bool isRunning; // Is the character running?
     public Vector3 SpawnPosition; // Variable to store the starting position of the character
-    [SerializeField] private bool m_EnableSprint;
-    private bool currently_sprinting = false;
-    private float original_speed;
-    private float sprint_timer = 0;
-    private float sprint_cooldown = 0;
+    [SerializeField] private bool m_EnableSprint; 
+    [Range(1, 10)] [SerializeField] private float m_SprintDelay; // Variable to store the duration the sprint delay
+    private bool currently_sprinting = false; // Variable to store if the character is currently sprinting
+    private float original_speed; // Variable to store the original speed of the character
+    private float sprint_timer = 0; // Variable to store the time tha
+    private float sprint_cooldown = 0; 
+    private bool on_cooldown = false;
 
     void Start()
     {
@@ -36,13 +38,14 @@ public class PlayerMovement : MonoBehaviour {
        
         if(Input.GetKeyUp(KeyCode.RightControl)) // Check if the Right Control key is up to disable sprint
         {
-            runSpeed = original_speed;
             currently_sprinting = false;
-            sprint_timer = 0;
-            sprint_cooldown = 0;
+            if (!on_cooldown)
+            {
+                on_cooldown = true;
+            }
         }
 
-        if (Input.GetKeyDown(KeyCode.RightControl) && isRunning && !currently_sprinting )
+        if (Input.GetKeyDown(KeyCode.RightControl) && isRunning && !currently_sprinting && m_EnableSprint && !on_cooldown)  
         {
             currently_sprinting = true;
             runSpeed *= 1.5f;
@@ -53,6 +56,7 @@ public class PlayerMovement : MonoBehaviour {
             if(sprint_timer > 2)
             {
                 currently_sprinting = false;
+                on_cooldown = true;
             }
             sprint_timer += Time.deltaTime;
         }
@@ -60,9 +64,20 @@ public class PlayerMovement : MonoBehaviour {
         {
             sprint_timer = 0;
         }
-
-
-
+        if(!currently_sprinting)
+        {
+            runSpeed = original_speed;
+            sprint_timer = 0;
+        }
+        if(on_cooldown)
+        {
+            sprint_cooldown += Time.deltaTime;
+            if(sprint_cooldown > m_SprintDelay)
+            {
+                on_cooldown = false;
+                sprint_cooldown = 0;
+            }
+        }
 
         if (Input.GetAxisRaw("Horizontal") > 0 || Input.GetAxisRaw("Horizontal") < 0) // Tell the animator that the character is running
         {
