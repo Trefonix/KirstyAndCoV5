@@ -1,6 +1,15 @@
 ﻿
+<<<<<<< HEAD
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+=======
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
+# Visual Studio 15
+=======
 # Visual Studio for Mac
+>>>>>>> 01ef6fc1bf97e68757c79e00f0d6bb6174772d7b
+>>>>>>> 6aee65a7264b68683df99b31c3b6f858b85f76fb
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirstyAndCoV5", "Assembly-CSharp.csproj", "{AD72897B-D60D-C7A5-3984-ECEF62B22BEC}"
 EndProject
 Global
@@ -16,5 +25,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

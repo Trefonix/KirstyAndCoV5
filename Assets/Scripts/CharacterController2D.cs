@@ -19,8 +19,8 @@ public class CharacterController2D : MonoBehaviour
 	const float k_CeilingRadius = .2f; // Radius of the overlap circle to determine if the player can stand up
 	private Rigidbody2D m_Rigidbody2D;
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
-	private Vector3 m_Velocity = Vector3.zero;
-    private bool already_jumped = false;
+	private Vector3 m_Velocity = Vector3.zero; 
+    private bool already_jumped = false; // For determining if the character has already jumped
     
 	[Header("Events")]
 	[Space]
@@ -128,15 +128,20 @@ public class CharacterController2D : MonoBehaviour
 		}
         // If the player should jump...
         if (m_Grounded && jump)
-        {
+        { 
             // Add a vertical force to the player.
             m_Grounded = false;
+
+
+
+
+
             m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
         }
         else if (!m_Grounded && jump && !already_jumped && m_DoubleJumpEnabled)
         {
             already_jumped = true;
-            m_Rigidbody2D.AddForce(new Vector2(0f, m_DoubleJumpForce));
+            m_Rigidbody2D.AddForce(new Vector2(0f, m_DoubleJumpForce)); //Add vertical force to the player
         }
         if (m_Grounded)
         {
