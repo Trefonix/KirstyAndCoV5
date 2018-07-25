@@ -250,7 +250,7 @@ Prefab:
     - target: {fileID: 114581977186280446, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: runSpeed
-      value: 200
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
@@ -265,6 +265,11 @@ Prefab:
     - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
         type: 2}
       propertyPath: d_jump_enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396798701810772, guid: eec953429a15249e984d2bcb04e907e2,
+        type: 2}
+      propertyPath: m_DoubleJumpEnabled
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
