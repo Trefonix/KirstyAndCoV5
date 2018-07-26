@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Bouncy World.unity
+- path: Assets/Scenes/Stu's version Bouncy World.unity
   isLoaded: 1
   isActive: 1
