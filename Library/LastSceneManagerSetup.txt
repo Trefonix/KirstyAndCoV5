@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Tilemap test scene.unity
+=======
+- path: Assets/Scenes/Stu's version Bouncy World.unity
+>>>>>>> f7aa0ac9b062c8eaedeca6179a14a5d70a2a77ec
   isLoaded: 1
   isActive: 1

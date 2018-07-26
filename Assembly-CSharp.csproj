@@ -64,14 +64,20 @@
     <Compile Include="Assets\Scripts\Camera_Movement.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+<<<<<<< HEAD
+=======
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>/Users/stuartmaiden/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+>>>>>>> f7aa0ac9b062c8eaedeca6179a14a5d70a2a77ec
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/stuartmaiden/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/stuartmaiden/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/stuartmaiden/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/owner1/Documents/GitHub/KirstyAndCoV5/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -269,10 +275,10 @@
       <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>/Users/owner1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>/Users/stuartmaiden/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>/Users/owner1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>/Users/stuartmaiden/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

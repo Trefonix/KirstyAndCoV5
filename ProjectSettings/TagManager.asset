@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Player_Respawn
   - Kirsty_Player
+  - Wall_Jump
   layers:
   - Default
   - TransparentFX
