@@ -16,8 +16,8 @@ public class PlayerMovement : MonoBehaviour {
     [Range(1, 10)] [SerializeField] private float m_SprintDelay; // Variable to store the duration the sprint delay
     private bool currently_sprinting = false; // Variable to store if the character is currently sprinting
     private float original_speed; // Variable to store the original speed of the character
-    private float sprint_timer = 0; // Variable to store the time tha
-    private float sprint_cooldown = 0; 
+    private float sprint_timer = 0; // Variable to store the time that the sprint has been in action
+    private float sprint_cooldown = 0; //
     private bool on_cooldown = false;
 
     void Start()
