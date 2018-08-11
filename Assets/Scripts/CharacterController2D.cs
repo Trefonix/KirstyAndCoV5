@@ -12,7 +12,10 @@ public class CharacterController2D : MonoBehaviour
 	[SerializeField] private Transform m_CeilingCheck;							// A position marking where to check for ceilings
 	[SerializeField] private Collider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
     [SerializeField] private bool m_DoubleJumpEnabled;
-    [Range(1,1000)][SerializeField] private float m_DoubleJumpForce = 200f;
+    [Range(1,1000)][SerializeField] private float m_DoubleJumpForce; // A variable that stores the force of the double-jump
+	[Range(1,50)] [SerializeField] private float m_GlideDrag;  // A variable that stores the drag from the glide function
+	[SerializeField] private bool m_EnableGlide; // A variable that stores if the glide is enabled/not
+	[Range(1,10)] [SerializeField] private float m_GlideSpeed; // A variable that stores how fast the character is moving whilst gliding
 
 	const float k_GroundedRadius = 0.3f; // Radius of the overlap circle to determine if grounded
 	private bool m_Grounded;            // Whether or not the player is grounded.
@@ -21,6 +24,7 @@ public class CharacterController2D : MonoBehaviour
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 	private Vector3 m_Velocity = Vector3.zero; 
     private bool already_jumped = false; // For determining if the character has already jumped
+	public Rigidbody2D rb; // Rigidbody to reference the character rigidbody for glide fumction
     
 	[Header("Events")]
 	[Space]
@@ -32,6 +36,12 @@ public class CharacterController2D : MonoBehaviour
 
 	public BoolEvent OnCrouchEvent;
 	private bool m_wasCrouching = false;
+
+ 	void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
 
 	private void Awake()
 	{
@@ -64,7 +74,7 @@ public class CharacterController2D : MonoBehaviour
 	}
 
 
-	public void Move(float move, bool crouch, bool jump)
+	public void Move(float move, bool crouch, bool jump, bool glide)
 	{
 		// If crouching, check to see if the character can stand up
 		if (!crouch)
@@ -76,10 +86,19 @@ public class CharacterController2D : MonoBehaviour
 			}
 		}
 
+		// Allow the player to glide only if in air and not jumping at the same moment
+		if(glide && !m_Grounded && !jump && m_EnableGlide) 
+		{
+			rb.drag = m_GlideDrag;
+			move *= m_GlideSpeed;
+		} else if(!glide || m_Grounded) 
+		{
+			rb.drag = 0;
+		}
+
 		//only control the player if grounded or airControl is turned on
 		if (m_Grounded || m_AirControl)
 		{
-
 			// If crouching
 			if (crouch)
 			{
@@ -131,11 +150,6 @@ public class CharacterController2D : MonoBehaviour
         { 
             // Add a vertical force to the player.
             m_Grounded = false;
-
-
-
-
-
             m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
         }
         else if (!m_Grounded && jump && !already_jumped && m_DoubleJumpEnabled)
